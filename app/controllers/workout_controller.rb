@@ -1,5 +1,5 @@
-#require "temboo"
-#require "Library/Cloudmine"
+require "vendor/temboo"
+require "Library/Cloudmine"
 
 class WorkoutController < ApplicationController
   def assemble
