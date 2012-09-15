@@ -1,4 +1,4 @@
-require 'temboo-1.70'
+require 'temboo'
 require 'Library/CloudMine'
 
 class WorkoutController < ApplicationController
