@@ -21,7 +21,7 @@ group :assets do
 end
 
 gem 'jquery-rails'
-gem 'temboo', '1.70', :path => "vendor/temboo-ruby-sdk-1.70.gem"
+gem 'temboo', '1.70', :path => "vendor/temboo.gem"
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
